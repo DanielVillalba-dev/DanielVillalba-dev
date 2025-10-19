@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me  
 
 I'm **Daniel Villalba**, a motivated **Backend Developer** specialized in **Java, Spring Boot, and relational databases**.  
-With over 5 years of hands-on programming practice through personal, academic, and collaborative projects, I bring strong problem-solving skills and a passion for building **scalable and reliable software**.  
+With over 3 years of hands-on programming practice through personal, academic, and collaborative projects, I bring strong problem-solving skills and a passion for building **scalable and reliable software**.  
 
 Currently, I’m working on a **SENA project**, applying **Agile methodologies** and modern development tools like **Maven, Git/GitHub, and Postman**. I enjoy turning ideas into solutions that create real impact.  
 
